@@ -1,0 +1,13 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.LAHutchins91/decision",
+  "title": "Decision",
+  "description": "Approved refund, date, feature, and price records, shared with AI assistants over MCP.",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "http://127.0.0.1:3000/mcp"
+    }
+  ]
+}
