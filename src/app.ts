@@ -271,3 +271,5 @@ export function createApp(deps: DecisionDeps): Express {
 
   return app;
 }
+
+export default createApp(defaultDeps());
