@@ -84,3 +84,7 @@ OAuth uses the same idea as a Supabase authorization server with dynamic client 
 - `STRIPE_PRICE_MONTHLY` and `STRIPE_PRICE_YEARLY` (Stripe catalog ids, not a subscription amount)
 
 Tool calls other than discovery require a signed-in account whose subscription status is `active` or `trialing`. Discovery is `initialize` and `tools/list`.
+
+---
+
+More from Ouroboros: https://ouroborosapps.com
